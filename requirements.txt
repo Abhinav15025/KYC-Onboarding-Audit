@@ -1,0 +1,6 @@
+pandas #handling client/document data
+psycopg2-binary #connecting Python to PostgreSQL
+python-dotenv #safely loading database credentials
+faker #generating synthetic clients
+pytest #testing our validation rules
+SQLAlchemy
